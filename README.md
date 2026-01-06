@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **........**
-- 👨‍💻 Check out my portfolio [blabla.com](https://blabla.com)
+- 👨‍💻 Check out my portfolio [maouknowsjava.github.io/Maou/](https://maouknowsjava.github.io/Maou/)
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java**
 - 📫 Reach me at **necrosyeah@gmail.com**
 - ⚡ Fun fact: **I'm a weirdo but im real tho**
